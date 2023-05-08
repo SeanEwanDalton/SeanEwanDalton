@@ -13,8 +13,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-
 
 
 I am Nadia, Software Developer in Ruby on Rails and Data Engineer in Python
@@ -24,3 +22,8 @@ I am Nadia, Software Developer in Ruby on Rails and Data Engineer in Python
 👩‍💻 I work as a Full Stack Developer, contributing to frontend and backend in different projects to build web applications.
 
 👩‍🏫 I also work as a freelancer Data Scientist and Data Science teacher.
+-->
+
+
+
+
