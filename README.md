@@ -2,7 +2,7 @@
 
 **I am an aspiring data professional aiming to secure a data analytics job in June 2023.**
 
-- 🏴󠁧󠁢󠁳󠁣󠁴󠁿 living in the Hague 🇳🇱
+- 🏴󠁧󠁢󠁳󠁣󠁴󠁿 living in The Hague 🇳🇱
 - 🌱 I’m currently learning data analytics with Le Wagon
 
 
