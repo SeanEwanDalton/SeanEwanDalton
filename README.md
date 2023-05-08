@@ -1,7 +1,9 @@
 ### Hey there, friend of Sean 👋
 
+**I am a aspiring data professional aiming to secure my first job in data analytics in June 2023.**
 
-- 🔭 I’m currently working on ...
+- 🏴󠁧󠁢󠁳󠁣󠁴󠁿 living in the Hague 🇳🇱
+- 🌱 I’m currently learning data analytics with Le Wagon
 
 
 <!--
