@@ -3,8 +3,8 @@
 **I am an aspiring data professional aiming to secure a data analytics job in June 2023.**
 
 - 🏴󠁧󠁢󠁳󠁣󠁴󠁿 living in The Hague 🇳🇱
-- 🌱 I’m currently learning data analytics with Le Wagon
-
+- 🌱 Currently improving my data analytics skills with Le Wagon
+- 🔭 Soon to be studying data science and machine learning with MIT 
 
 <!--
 **SeanEwanDalton/SeanEwanDalton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
