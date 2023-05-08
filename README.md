@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey there, friend of Sean 👋
 
 <!--
 **SeanEwanDalton/SeanEwanDalton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+I am Nadia, Software Developer in Ruby on Rails and Data Engineer in Python
+
+🌐 I'm from Argentina, currently based in Europe.
+
+👩‍💻 I work as a Full Stack Developer, contributing to frontend and backend in different projects to build web applications.
+
+👩‍🏫 I also work as a freelancer Data Scientist and Data Science teacher.
