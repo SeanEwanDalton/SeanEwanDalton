@@ -23,7 +23,7 @@ Just a few skills I have picked up along the way:
   <a href="https://zapier.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="pandas" width="30" height="30"/> </a>  
   <a href="https://www.fivetran.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/fivetran/fivetran-icon.svg" alt="fivetran" width="30" height="30"/> </a> 
   <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> <img src="https://vectorwiki.com/images/wbGV8__tableau-software.svg" alt="tableau" width="30" height="30"/> </a>
-  <a href="https://powerbi.microsoft.com/en-au/" target="_blank" rel="noreferrer"> <img src=" https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="powerbi" width="30" height="30"/> </a>
+  <a href="https://powerbi.microsoft.com/en-au/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="powerbi" width="30" height="30"/> </a>
  
 </p>
 
