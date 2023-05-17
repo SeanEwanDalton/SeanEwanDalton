@@ -22,6 +22,6 @@ Just a few skills I have picked up along the way:
   <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="numpy" width="30" height="30"/> </a> 
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-     original.svg" alt="pandas" width="30" height="30"/> </a>  
   <a href="https://zapier.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="pandas" width="30" height="30"/> </a>  
-  <a href="https://www.fivetran.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/fivetran/fivetran-icon.svg" alt="fivetran" width="30" height="30"/> </a> 
+  <a href="https://www.fivetran.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/fivetran/fivetran-icon.svg" alt="fivetran" width="30" height="30"/> </a> 
 </p>
 
