@@ -6,8 +6,6 @@
 - 🌱 Currently improving my data analytics skills with Le Wagon
 - 🔭 Soon to be studying data science and machine learning with MIT 
 
-<p align="center"><img src="cooltext435736123170202.png" align="center" width="500"></p>
-
 <p align="centre">
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/> </a>
 </p>
