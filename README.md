@@ -10,7 +10,7 @@
 - 🔭 Soon to be studying data science and machine learning with MIT 
 
 
-Just a few skills I have picked up along the way
+Just a few skills I have picked up along the way:
 
 <p align="centre">
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/> </a>
