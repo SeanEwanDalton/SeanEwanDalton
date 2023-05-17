@@ -22,5 +22,7 @@ Just a few skills I have picked up along the way:
   <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="numpy" width="30" height="30"/> </a> 
   <a href="https://zapier.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="pandas" width="30" height="30"/> </a>  
   <a href="https://www.fivetran.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/fivetran/fivetran-icon.svg" alt="fivetran" width="30" height="30"/> </a> 
+  <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> <img src="https://vectorwiki.com/images/wbGV8__tableau-software.svg" alt="tableau" width="30" height="30"/> </a>
 </p>
 
+https://vectorwiki.com/images/wbGV8__tableau-software.svg
