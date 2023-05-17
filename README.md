@@ -24,7 +24,8 @@ Just a few skills I have picked on my journeys:
   <a href="https://www.fivetran.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/fivetran/fivetran-icon.svg" alt="fivetran" width="30" height="30"/> </a> 
   <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> <img src="https://vectorwiki.com/images/wbGV8__tableau-software.svg" alt="tableau" width="30" height="30"/> </a>
   <a href="https://powerbi.microsoft.com/en-au/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="powerbi" width="30" height="30"/> </a>
- 
+ <a href="https://powerbi.microsoft.com/en-au/" target="_blank" rel="noreferrer"> <img src="https://upload.vectorlogo.zone/logos/getdbt/images/bfd2e20c-3067-4898-861d-7e2913beb27f.svg" alt="powerbi" width="30" height="30"/> </a>
+  
 </p>
 
 
