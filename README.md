@@ -1,3 +1,6 @@
+<p align="center"><img src="cooltext435736123170202" align="center" width="500"></p>
+
+
 ### Hey there, friend of Sean 👋
 
 **I am an aspiring data professional aiming to secure a data analytics job in June 2023.**
