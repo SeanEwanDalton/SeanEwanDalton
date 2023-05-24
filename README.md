@@ -3,7 +3,7 @@
 
 ### Hey there, friend of Sean 👋
 
-**Data professional aiming to secure a data analytics job in June 2023.**
+**Data professional aiming to secure a job in June 2023.**
 
 - 🏴󠁧󠁢󠁳󠁣󠁴󠁿 living in The Hague 🇳🇱
 - 🌱 Currently improving my data analytics skills with Le Wagon
