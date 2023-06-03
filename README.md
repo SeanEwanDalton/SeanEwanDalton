@@ -10,7 +10,7 @@
 - 🔭 Data science and machine learning with MIT 
 
 
-Just a few skills I have picked on my journeys:
+Just a few skills I have picked on my journeys so far:
 
 <p align="centre">
   <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="30" height="30"/> </a> 
