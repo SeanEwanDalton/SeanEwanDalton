@@ -3,11 +3,11 @@
 
 ### Hey there, friend of Sean 👋
 
-**Data professional aiming to secure a job in June 2023.**
+**Data professional aiming to secure a job in September 2023.**
 
 - 🏴󠁧󠁢󠁳󠁣󠁴󠁿 living in The Hague 🇳🇱
-- 🌱 Currently improving my data analytics skills with Le Wagon
-- 🔭 Soon to be studying data science and machine learning with MIT 
+- 🌱 Data analytics with Le Wagon
+- 🔭 Data science and machine learning with MIT 
 
 
 Just a few skills I have picked on my journeys:
