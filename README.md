@@ -1,6 +1,6 @@
 <p align="center"><img src="cooltext435736123170202.png" align="center" width="500"></p>
 
-### Hey there, friend of Sean 👋
+### Hello! 👋
 
 **Data professional aiming to secure a job in September 2023.**
 
