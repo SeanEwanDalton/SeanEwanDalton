@@ -1,5 +1,5 @@
 <p align="center"><img src="cooltext435736123170202.png" align="center" width="500"></p>
-
+🔭
 
 ### Hey there, friend of Sean 👋
 
@@ -7,7 +7,9 @@
 
 - 🏴󠁧󠁢󠁳󠁣󠁴󠁿 living in The Hague 🇳🇱
 - 🌱 Data analytics with Le Wagon
-- 🔭 Data science and machine learning with MIT 
+- <p align="centre">
+  <a href="https://www.mit.edu/" target="_blank" rel="noreferrer"> <img src= "https://www.vectorlogo.zone/logos/mitedu/mitedu-icon.svg" alt="sqlite" width="30" height="30"/> </a>  
+</p> Data science and machine learning with MIT 
 
 
 Just a few skills I have picked on my journeys so far:
