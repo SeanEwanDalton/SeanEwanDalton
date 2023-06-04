@@ -2,7 +2,7 @@
 
 ### Hello! 👋
 
-**Data professional aiming to secure a job in September 2023.**
+**Data professional seeking employment.**
 
 - 🏴󠁧󠁢󠁳󠁣󠁴󠁿 living in The Hague 🇳🇱
 - 🌱 Data analytics with Le Wagon
