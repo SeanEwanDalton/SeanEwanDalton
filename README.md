@@ -5,8 +5,8 @@
 **Data professional seeking employment.**
 
 - 🏴󠁧󠁢󠁳󠁣󠁴󠁿 living in The Hague 🇳🇱
-- 🌱 Data analytics with Le Wagon - present
-- ⚙️ Data engineering with Codecademy - present
+- 🌱 Data analytics with Le Wagon 
+- ⚙️ Data engineering with Codecademy
 - 🔭 Data science and machine learning with MIT - commencing June 2023
 
 
