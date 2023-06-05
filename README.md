@@ -23,6 +23,7 @@ Just a few skills I have picked on my journeys so far:
   <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="jupyter" width="30" height="30"/> </a>
 <a href="https://analytics.withgoogle.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_analytics/google_analytics-icon.svg" alt="google_analytics" width="30" height="30"/> </a> 
   <a href="https://cloud.google.com/bigquery" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-icon.svg" alt="bigquery" width="30"            height="30"/> </a> 
+  <a href="https://azure.microsoft.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="30"            height="30"/> </a> 
   <a href="https://zapier.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="pandas" width="30" height="30"/> </a>  
   <a href="https://www.fivetran.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/fivetran/fivetran-icon.svg" alt="fivetran" width="30" height="30"/> </a> 
   <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> <img src="https://vectorwiki.com/images/wbGV8__tableau-software.svg" alt="tableau" width="30" height="30"/> </a>
