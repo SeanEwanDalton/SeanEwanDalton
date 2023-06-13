@@ -7,7 +7,7 @@
 - 🏴󠁧󠁢󠁳󠁣󠁴󠁿 living in The Hague 🇳🇱
 - 🌱 Data analytics with Le Wagon 
 - ⚙️ Data engineering with Codecademy
-- 🔭 Data science and machine learning with MIT - commencing June 2023
+- 🔭 Data science and machine learning with MIT
 
 
 Just a few skills I have picked on my journeys so far:
